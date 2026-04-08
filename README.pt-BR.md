@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Português</strong> | <a href="./README.en-US.md">English</a>
+  <strong>Português</strong> | <a href="./README.md">English</a>
 </p>
 
 <h1 align="center">Olá, sou o Pablo Henrique 👋</h1>
