@@ -39,10 +39,11 @@
 
 ## No que estou focado agora
 
-- Estratégia de testes para fluxos críticos
-- Automação que continue fácil de manter
-- Validação de APIs e testes end-to-end
-- Melhorar a qualidade sem criar processo desnecessário
+- Estratégia de testes para fluxos críticos e de alto impacto
+- Automação escalável com foco em manutenção e confiabilidade
+- Validação ponta a ponta de APIs, integrações e regras de negócio
+- Aplicação de IA para tornar o trabalho de QA mais inteligente, ágil e eficiente
+- Melhoria contínua da qualidade
 
 ## Onde me encontrar
 
