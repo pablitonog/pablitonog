@@ -39,10 +39,11 @@
 
 ## What I'm focused on
 
-- Test strategy for critical flows
-- Automation that stays maintainable
-- API and end-to-end validation
-- Improving quality without adding unnecessary process
+- Designing test strategies for critical business flows
+- Building maintainable automation that scales with the product
+- Validating quality across APIs, integrations, and end-to-end journeys
+- Using AI to optimize QA workflows, accelerate analysis, and reduce repetitive effort
+- Improving product quality with practical processes that add value without unnecessary overhead
 
 ## Find me here
 
