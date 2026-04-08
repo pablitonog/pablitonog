@@ -1,3 +1,7 @@
+<p align="center">
+  <strong>English</strong> | <a href="./README.pt-BR.md">Português</a>
+</p>
+
 <h1 align="center">Hey, I'm Pablo Henrique</h1>
 
 <p align="center">
